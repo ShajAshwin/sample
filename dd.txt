@@ -1,0 +1,3 @@
+Get /api/finance/user/list
+get /api/finance/user/{id}
+post /api/finance/user/create
